@@ -1,1 +1,0 @@
-# snapdeal-affiliate-client
