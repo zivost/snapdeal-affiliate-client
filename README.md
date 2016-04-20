@@ -1,4 +1,7 @@
 # snapdeal-affiliate-client
+[![NPM version](https://badge.fury.io/js/snapdeal-affiliate-client.svg)](https://www.npmjs.com/package/snapdeal-affiliate-client) 
+
+[![NPM](https://nodei.co/npm/snapdeal-affiliate-client.png?mini=true)](https://nodei.co/npm/snapdeal-affiliate-client/)
 
 un-official client for [Snapdeal Affiliates API](https://affiliate.snapdeal.com)
 
