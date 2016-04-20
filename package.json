@@ -1,0 +1,32 @@
+{
+  "name": "snapdeal-affiliate-client",
+  "version": "1.0.0",
+  "description": "un-official client for Snapdeal Affiliates API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nigharsh/snapdeal-affiliate-client.git"
+  },
+  "keywords": [
+    "snapdeal",
+    "affiliate",
+    "api",
+    "client",
+    "node.js",
+    "node"
+  ],
+  "bugs": {
+    "url": "https://github.com/nigharsh/snapdeal-affiliate-client/issues"
+  },
+  "homepage": "https://github.com/nigharsh/snapdeal-affiliate-client#readme",
+  "author": "Harsh Nigam <nigharsh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "request": "^2.72.0"
+  }
+}
