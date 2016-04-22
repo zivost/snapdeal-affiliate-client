@@ -2,7 +2,7 @@
   "name": "snapdeal-affiliate-client",
   "version": "1.0.1",
   "description": "un-official client for Snapdeal Affiliates API",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "mocha"
   },
@@ -25,8 +25,10 @@
   "author": "Harsh Nigam <nigharsh@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.4.5",
     "request": "^2.72.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
   }
 }
